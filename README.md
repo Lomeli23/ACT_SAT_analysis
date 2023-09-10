@@ -1,2 +1,1 @@
-# ACT_SAT_analysis
-Analysis of ACT and SAT datasets from 2017 and 2018.
+# ACT_SAT_Scores_vs_Participation_Analysis
